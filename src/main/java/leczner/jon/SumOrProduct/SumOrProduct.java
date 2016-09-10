@@ -1,3 +1,5 @@
+package leczner.jon.SumOrProduct;
+
 import java.util.Scanner;
 
 /**
